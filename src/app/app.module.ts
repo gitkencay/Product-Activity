@@ -26,6 +26,7 @@ import { AngularFireModule } from 'angularfire2';
 export const firebaseConfig = environment.firebaseConfig;
 import { AngularFirestoreModule } from 'angularfire2/firestore';
 
+
 @NgModule({
   declarations: [
     AppComponent,
